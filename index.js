@@ -1,4 +1,3 @@
-
 var productData = {
     "id": "1",
     "name": "Men Navy Blue Solid Sweatshirt",
